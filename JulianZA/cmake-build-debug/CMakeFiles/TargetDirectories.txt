@@ -1,0 +1,3 @@
+/Users/julianaz/CLionProjects/JulianZA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/julianaz/CLionProjects/JulianZA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/julianaz/CLionProjects/JulianZA/cmake-build-debug/CMakeFiles/JulianZA.dir
